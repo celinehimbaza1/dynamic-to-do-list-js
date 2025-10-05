@@ -46,7 +46,4 @@ document.addEventListener('DOMContentLoaded', () => {
       addTask();
     }
   });
-
-  // Invoke addTask once on page load (as required by ALX)
-  addTask();
 });
