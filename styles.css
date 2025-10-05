@@ -24,6 +24,7 @@ h1 {
   color: #333;
 }
 
+/* Input and button area */
 .input-section {
   display: flex;
   gap: 10px;
@@ -51,6 +52,7 @@ h1 {
   background-color: #005fcc;
 }
 
+/* Task list */
 #task-list {
   list-style: none;
   padding: 0;
@@ -67,7 +69,7 @@ h1 {
   border-radius: 6px;
 }
 
-
+/* Remove button */
 .remove-btn {
   padding: 4px 8px;
   background-color: #ff4d4d;
